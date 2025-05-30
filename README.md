@@ -29,4 +29,3 @@ A basic todo application built with Next.js and PostgreSQL.
    ```
 
 The app will be available at http://localhost:3000
-# NextJS-To-do-App
